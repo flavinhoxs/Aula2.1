@@ -1,4 +1,5 @@
 # Aula2.1
 Tom Cruise
-Leonardo DiCaprio
+Brad Pitt
 Samuel Jackson
+Selena Gomes
